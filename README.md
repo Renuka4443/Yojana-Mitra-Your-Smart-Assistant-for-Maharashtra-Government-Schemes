@@ -90,6 +90,14 @@ The system was tested across multiple query types and performed accurately and c
 - Displayed responses with clean markdown formatting
 - Worked smoothly for category-based queries such as “Schemes for farmers” or “Schemes for students”
 
+  ![WhatsApp Image 2025-11-04 at 20 58 59_33857c40](https://github.com/user-attachments/assets/e54fbe02-bb9a-41eb-8419-26ca8b5a8eb5)
+
+  ![WhatsApp Image 2025-11-04 at 21 05 22_2a09f1db](https://github.com/user-attachments/assets/fc7184cb-4636-4d40-89fd-76f5acacbb86)
+
+![WhatsApp Image 2025-11-04 at 21 04 05_61f2afe9](https://github.com/user-attachments/assets/d5507c9b-475c-45a2-be48-5e37647b074f)
+
+![WhatsApp Image 2025-11-04 at 21 02 05_ee6b8e01](https://github.com/user-attachments/assets/430170d2-274c-46e6-ae2e-89f8e9ae7393)
+
 ---
 
 ## 🔮 Future Scope
